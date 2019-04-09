@@ -1,0 +1,20 @@
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv environment variable file
+.environment
+dist
+
+# git
+.git
+
+# node
+node_modules
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# youtube
+/youtube
