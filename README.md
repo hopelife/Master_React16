@@ -1,2 +1,2 @@
 # Master_React16
-try nomadcorders lecture
+try nomad academy course
